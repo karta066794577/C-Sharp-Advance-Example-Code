@@ -1,0 +1,9 @@
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\bin\Debug\PokemonLibrary.dll
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\bin\Debug\PokemonLibrary.pdb
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\bin\Debug\EasyMath.dll
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\bin\Debug\EasyMath.pdb
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\obj\Debug\PokemonLibrary.csprojResolveAssemblyReference.cache
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\obj\Debug\PokemonLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\obj\Debug\PokemonLibrary.csproj.CopyComplete
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\obj\Debug\PokemonLibrary.dll
+C:\Users\ChengXinLiu\repos\Lecture02\PokemonLibrary\obj\Debug\PokemonLibrary.pdb
