@@ -1,0 +1,6 @@
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\bin\Debug\EasyMath.dll
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\bin\Debug\EasyMath.pdb
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\obj\Debug\EasyMath.csprojResolveAssemblyReference.cache
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\obj\Debug\EasyMath.csproj.CoreCompileInputs.cache
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\obj\Debug\EasyMath.dll
+C:\Users\ChengXinLiu\repos\Lecture01\EasyMath\obj\Debug\EasyMath.pdb

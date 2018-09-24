@@ -1,0 +1,13 @@
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\bin\Debug\Example02.exe.config
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\bin\Debug\Example02.exe
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\bin\Debug\Example02.pdb
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\bin\Debug\EasyMath.dll
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\bin\Debug\EasyMath.pdb
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.Form1.resources
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.Properties.Resources.resources
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.csproj.GenerateResource.cache
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.csproj.CoreCompileInputs.cache
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.csproj.CopyComplete
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.exe
+C:\Users\ChengXinLiu\repos\Lecture01\Example02\obj\Debug\Example02.pdb

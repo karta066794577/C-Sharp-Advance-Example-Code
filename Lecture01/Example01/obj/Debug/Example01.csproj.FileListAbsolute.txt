@@ -1,0 +1,10 @@
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\bin\Debug\Example01.exe.config
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\bin\Debug\Example01.exe
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\bin\Debug\Example01.pdb
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\bin\Debug\EasyMath.dll
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\bin\Debug\EasyMath.pdb
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\obj\Debug\Example01.csprojResolveAssemblyReference.cache
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\obj\Debug\Example01.csproj.CoreCompileInputs.cache
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\obj\Debug\Example01.csproj.CopyComplete
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\obj\Debug\Example01.exe
+C:\Users\ChengXinLiu\repos\Lecture01\Example01\obj\Debug\Example01.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMath", "EasyMath\EasyMath.csproj", "{0DE5FBE2-EE21-4A07-A567-9974936C5C16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{4E617F3C-246B-463C-93CA-C0672183E895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{9767EE15-670E-4C6D-8333-47200FD61B25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE5FBE2-EE21-4A07-A567-9974936C5C16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE5FBE2-EE21-4A07-A567-9974936C5C16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE5FBE2-EE21-4A07-A567-9974936C5C16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE5FBE2-EE21-4A07-A567-9974936C5C16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E617F3C-246B-463C-93CA-C0672183E895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E617F3C-246B-463C-93CA-C0672183E895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E617F3C-246B-463C-93CA-C0672183E895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E617F3C-246B-463C-93CA-C0672183E895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9767EE15-670E-4C6D-8333-47200FD61B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9767EE15-670E-4C6D-8333-47200FD61B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9767EE15-670E-4C6D-8333-47200FD61B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9767EE15-670E-4C6D-8333-47200FD61B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B26918D-4FE2-4608-88FD-01DC87695988}
+	EndGlobalSection
+EndGlobal
